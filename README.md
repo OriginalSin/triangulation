@@ -64,6 +64,9 @@ N - двумерный массив, число цветов 2, преобраз
 
 Marching Square [index4.html](https://a402539.github.io/triangulation/index4.html)
 
+Marching Square with Holes [index5.html](https://originalsin.github.io/triangulation/index5.html)
+
+
 ## Увеличение минимального расстояния между точками [enlarge.html](https://a402539.github.io/triangulation/enlarge.html) см. [wiki](../../wiki)
 
 Добавлен файл maple **enlarge.mw** и его экспорт в pdf **enlarge.pdf**
